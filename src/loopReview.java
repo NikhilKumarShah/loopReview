@@ -1,7 +1,7 @@
 package src;
 import java.util.Scanner;
 
-public class loopReview {
+public class -1loopReview {
     public static void main(String args[]) {
         Scanner input = new Scanner(System.in);
         double grade = 0;
